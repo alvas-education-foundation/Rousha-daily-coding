@@ -1,4 +1,4 @@
-//Given an array A of size N where the array elements contain values from 1 to N with duplicates, the task is to find total number of subarrays which start and end with the same element.
+/*Given an array A of size N where the array elements contain values from 1 to N with duplicates, the task is to find total number of subarrays which start and end with the same element*/
 
 public class Main { 
   
