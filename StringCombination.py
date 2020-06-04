@@ -1,4 +1,4 @@
-/*Take two strings, return a string of the form short+long+short, with the shorter string on the outsides and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
+/*1.Take two strings, return a string of the form short+long+short, with the shorter string on the outsides and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
 
 Eg:
 Str1= 'Hello'
