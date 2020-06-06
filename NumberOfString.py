@@ -3,7 +3,7 @@ Eg:
 Input
 list1['hia', 'aba' , '363']
 Output:
-Number of strings with first and last cahracter is same: 2*/
+Number of strings with first and last character is same:2 */
 
 def match_words(words):
   ctr = 0
@@ -14,4 +14,4 @@ def match_words(words):
   return ctr
 
 print(match_words(['hia', 'aba' , '363']))
-/*2.
+
