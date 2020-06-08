@@ -1,4 +1,4 @@
-/*2.Write C++ program to Check whether a number can be represented as difference of two squares*/
+/*1.Write C++ program to Check whether a number can be represented as difference of two squares*/
 
 #include <bits/stdc++.h>
 using namespace std;
